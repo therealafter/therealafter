@@ -4,8 +4,8 @@
 <p align="center">
 <p align="center"><samp> Web developer </samp></p>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zMatheusPro&show_icons=true&hide_border=true&theme=radical">  
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMatheusPro&show_icons=true&hide_border=true&theme=radical&layout=compact">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=therealafter&show_icons=true&hide_border=true&theme=radical">  
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealaftero&show_icons=true&hide_border=true&theme=radical&layout=compact">
 <p>Olá, me chamo Edilson, tenho 17 anos. Comecei no mundo da programação com 13 anos e hoje estudo bastante sobre desenvolvimento web com React.js & NextJS para Front-end, Node.js para Back-end.</p>
 
 <p align="center">
