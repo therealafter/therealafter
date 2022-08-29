@@ -25,8 +25,6 @@
   <img src="https://badges.pufler.dev/commits/monthly/therealafter" />
 </p> -->
 
-</br></br></br></br>
-
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
