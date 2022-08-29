@@ -24,6 +24,8 @@
 </p> -->
 
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=therealafter&label=Profile%20views&color=0e75b6&style=flat" alt="therealafter" /> </p>
+
 <img src="https://cdn.discordapp.com/attachments/723961607465468004/1013907465965928588/Pngtreewhite_astronaut_4717881.png" width="300" align="right">
 
 📍Hello, my name is Edilson, I'm 17 years old. I started in the programming world when I was 13 years old and today I study a lot about web development with React.js & NextJS for Front-end, Node.js for Back-end.
@@ -42,8 +44,6 @@
 <!-- SOCIAL LINKS -->
 
 <i><h3 align="right">Connect with me</h3></i>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=therealafter&label=Profile%20views&color=0e75b6&style=flat" alt="therealafter" /> </p>
 
 <p align="right">
   <a href="https://www.linkedin.com/in/edilson-sousa-52934a216/">
