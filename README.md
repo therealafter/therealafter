@@ -31,7 +31,7 @@
 📍Hello, my name is Edilson, I'm 17 years old. I started in the programming world when I was 13 years old and today I study a lot about web development with React.js & NextJS for Front-end, Node.js for Back-end.
 
 - 🔭 I’m working on Building web apps using Java / Javascript tech stack.
-- 🌱 I’m currently learning Javascript and exploring the Spring framework family.
+- 🌱 I’m currently learning Java and exploring the Spring framework family.
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- ### Languages and Tools: -->
