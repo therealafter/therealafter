@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td>
-      <img alt="Suman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=therealafter&bg_color=314B7C&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
+      <img alt="Suman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=therealafter&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
 <!--       <img src="https://activity-graph.herokuapp.com/graph?username=therealafter&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
     </td>
   </tr>
@@ -74,7 +74,7 @@
      <img src="https://github-readme-stats.vercel.app/api?username=therealafter&show_icons=true&theme=github_dark&hide_border=true" />
    </td>
    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealafter&theme=github_dark&hide_border=true" />    
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealafter&theme=dark&hide_border=true" />    
    </td>
  </tr>
 </table>
