@@ -61,7 +61,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,eclipse,vscode,vim,redis,mongodb,prismaio,mysql,html,css,js,bootstrap,sqlite,docker,git,gitlab,stackoverflow,nginx&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=java,idea,eclipse,vscode,vim,redis,mongodb,prismaio,mysql,html,css,js,ts,bootstrap,sqlite,docker,git,gitlab,stackoverflow,nginx&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
