@@ -30,13 +30,11 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-📍I am Suman from India, and I do backend development.
-I enjoy learning new technologies and exploring tech.
-Some of the toys which I play with are Spring framework and Dropwizard.
+📍Hello, my name is Edilson, I'm 17 years old. I started in the programming world when I was 13 years old and today I study a lot about web development with React.js & NextJS for Front-end, Node.js for Back-end.
 
-- 🔭 I’m working on Building web apps using Java tech stack.
-- 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.sumanshekhar.com/
+- 🔭 I’m working on Building web apps using Java / Javascript tech stack.
+- 🌱 I’m currently learning Javascript and exploring the Spring framework family.
+- 📫 Reach me @ https://afterdeveloper.com.br
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- Tech Stack -->
@@ -63,7 +61,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=java,idea,eclipse,vscode,vim,redis,mongodb,prismaio,mysql,html,css,js,bootstrap,sqlite,docker,git,gitlab,stackoverflow,nginx&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
@@ -140,9 +138,9 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 <h2 align="center">Oh No !! the snake is coming for my commits 🐍</h2>
 
-![snake gif](https://github.com/therealafter/therealafter/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
-<!--   <img src="https://github.com/therealafter/therealafter/blob/main/assets/snake.gif" width="50"></h2> -->
+<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
 <!--
 # My GitHub contributions as a Game of Life
