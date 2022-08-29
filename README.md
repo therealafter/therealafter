@@ -24,7 +24,7 @@
 </p> -->
 
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
-<img src="https://cdn.discordapp.com/attachments/723961607465468004/1013906155145273504/f53bd1ae0f78a6d3e7bed79b3ffef067.png" width="300" align="right">
+<img src="https://cdn.discordapp.com/attachments/723961607465468004/1013907465965928588/Pngtreewhite_astronaut_4717881.png" width="300" align="right">
 
 📍Hello, my name is Edilson, I'm 17 years old. I started in the programming world when I was 13 years old and today I study a lot about web development with React.js & NextJS for Front-end, Node.js for Back-end.
 
@@ -36,7 +36,7 @@
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,react,vite,figma,idea,eclipse,vscode,vim,redis,mongodb,prisma,postgres,mysql,html,css,js,ts,bootstrap,sqlite,docker,git,gitlab,discord,bots,stackoverflow,nginx,aws,gcp,azure&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=java,nodejs,react,vite,figma,idea,eclipse,vscode,redis,mongodb,prisma,postgres,mysql,html,css,ts,sqlite,docker,git,gitlab,bots,stackoverflow,nginx,aws,gcp,azure&perline=12" /></a>
   </p>
 
 <!-- SOCIAL LINKS -->
