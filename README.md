@@ -32,7 +32,7 @@
 
 - 🔭 I’m working on Building web apps using Java / Javascript tech stack.
 - 🌱 I’m currently learning Javascript and exploring the Spring framework family.
-- 📫 Reach me @ https://afterdeveloper.com.br
+<!-- - 📫 Reach me @ https://afterdeveloper.com.br -->
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- Tech Stack -->
