@@ -26,7 +26,7 @@
 </p> -->
 
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
-<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+<img src="https://cdn.discordapp.com/attachments/723961607465468004/1013906155145273504/f53bd1ae0f78a6d3e7bed79b3ffef067.png" width="300" align="right">
 
 📍Hello, my name is Edilson, I'm 17 years old. I started in the programming world when I was 13 years old and today I study a lot about web development with React.js & NextJS for Front-end, Node.js for Back-end.
 
