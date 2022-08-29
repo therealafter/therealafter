@@ -87,7 +87,7 @@
 
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
-<!-- <img src="https://github.com/therealafter/therealafter/blob/main/assets/snake.gif" width="50"></h2> --> -->
+<!-- <img src="https://github.com/therealafter/therealafter/blob/main/assets/snake.gif" width="50"></h2> -->
 
 <!--
 # My GitHub contributions as a Game of Life
